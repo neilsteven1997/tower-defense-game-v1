@@ -1,0 +1,1 @@
+Dive into "tower-defense-game-v1," a compelling browser-based tower defense experience where strategic placement meets dynamic action. Built entirely with HTML, CSS, and JavaScript, this game showcases an innovative development approach, leveraging AI prompts and AI generation to craft its intricate mechanics and engaging design.
